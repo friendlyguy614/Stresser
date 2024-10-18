@@ -1,6 +1,3 @@
-
-Here’s a shorter version of the README.md for your Stresser project:
-
 Stresser (OPEN SOURCE)
 
 Overview
@@ -17,5 +14,5 @@ Usage
 2. Enter the Target URL: The tool retrieves the IP and starts the attack.
 
 Requirements:
-- Python 3.x
+- Python
 - Libraries: requests, scapy, dnspython
